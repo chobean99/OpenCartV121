@@ -1,0 +1,5 @@
+Here I wrote my first qa automation project while completing "Learn Selenium with Java, Cucumber & Frameworks" course by Pavan Kumar from udemy. Here I practised using Java(I was already familiar with OOP, this was an excellent opportunity to further  improve my knowledge
+of it)  with Selenium WebDriver (first I learned how to set up basic test case structure, wright and run simple webdriver test cases, cross browser tests, locate elements with basic and advanced locators, use WebDriver methods, implement waits, use browser commands, 
+work with web elements, work with browser windows, handle alerts and pop ups, handle cookies, static and dynamic tables etc...),Selectors Hub ( Overview of SelectorsHub, Features and Benefits), TestNG(TestNG Features,Basics of Writing TestNG Test Cases, Annotations
+in TestNG, Setting Test Case Priority, Running Tests in Priority Order, Configuring Test Suites and Test Cases, Viewing and Analyzing TestNG Reports, Types of Assertions,). Other tools I encountered during this course were:Selenium Grid, Docker, Cucumber, Git, GitHub and
+Jenkins.
